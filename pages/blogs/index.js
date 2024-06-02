@@ -35,7 +35,7 @@ const Blog = ({ frontmatter }) => {
             <BaseText
               firstTitle="Blogs"
               secondTitle="Content"
-              textIcon="./images/abhishek.png"
+              textIcon="./images/abhishekIndexBlog.png"
               topSpacing="2"
             />
             <Flex

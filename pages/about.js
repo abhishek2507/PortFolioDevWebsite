@@ -50,7 +50,7 @@ const About = () => {
               gap={4}
               my="10"
             >
-              <GridItem>
+              <GridItem paddingBottom={{ base: "4", sm: "8" }}>
                 <Text>
                   👨‍🎓 This is{" "}
                   <span

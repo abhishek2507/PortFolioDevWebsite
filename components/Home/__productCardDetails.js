@@ -1,8 +1,8 @@
 export const productCardDetails = [
   {
-    title: "Frontend Development",
+    title: "Machine Learning",
     description:
-      "I create functional, beautiful and responsive frontend applications for the web with modern technologies.",
+      "I wear multiple hats at my current firm switching from Big Data Engineer to Machine Learning Engineer. I can create highly efficient ML Backed Big Data ETL pipelines and Models.",
     svgIcon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@ export const productCardDetails = [
     bgColor: "var(--chakra-colors-cyan-400)",
   },
   {
-    title: "Backend Development",
+    title: "System Architect",
     description:
-      "I build high-quality cloud-based backend services for your applications to scale and host all your users.",
+      "I design and deploy high-quality cloud-based infrastructure, specially for compute Heavy workloads like Deep Learning. I majorly work in AWS Services, but very versatile to work with a counterpart.",
     svgIcon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -48,9 +48,9 @@ export const productCardDetails = [
     bgColor: "var(--chakra-colors-orange-400)",
   },
   {
-    title: "UX Design",
+    title: "Backend Development",
     description:
-      "I create applications for real user to match their needs and expectations, satisfy their needs and ease their lives.",
+      "I build high-quality cloud-based backend services for your applications to scale and host all your users.",
     svgIcon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -74,9 +74,9 @@ export const productCardDetails = [
     bgColor: "var(--chakra-colors-purple-400)",
   },
   {
-    title: "UI Design",
+    title: "Frontend Development",
     description:
-      "I design beautiful user interfaces for applications to work on all screen sizes. Your colors, typography and more, all pixel perfect and beautiful.",
+      "I create functional, beautiful and responsive frontend applications for the web with modern technologies.",
     svgIcon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -103,7 +103,7 @@ export const productCardDetails = [
   {
     title: "Closer involvement",
     description:
-      "I involve my clients closely in the design and development process in order to deliver a product that best matches your expectations.",
+      "I involve very closely with the Product Managers and BAs from very early stage of development. This ensures there isn't any deviation from what is expected from the Product.",
     svgIcon: (
       <svg
         stroke="white"
@@ -123,7 +123,7 @@ export const productCardDetails = [
   {
     title: "Your product ships faster",
     description:
-      "Unlike larger corporations, I am able to provide a faster product development process from start to finish to help your app launch faster.",
+      "Compare to other Developers at larger corporations, I am able to provide a faster product development process from start to finish to help your app launch faster.",
     svgIcon: (
       <svg
         stroke="white"

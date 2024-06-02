@@ -86,7 +86,7 @@ const Hero = () => {
                   bgGradient="linear(to-tr, teal.500, green.400)"
                   bgClip="text"
                 >
-                  designer.
+                  ML Engineer.
                 </Text>
               </Stack>
             </Heading>
@@ -98,7 +98,7 @@ const Hero = () => {
                   fontWeight: 500,
                 }}
               >
-                functional and beautiful applications
+                functional and scalable applications
               </span>{" "}
               with passion and a focus on{" "}
               <span
@@ -107,7 +107,7 @@ const Hero = () => {
                   fontWeight: 500,
                 }}
               >
-                user experience
+                heavy workloads
               </span>{" "}
               and{" "}
               <span
@@ -116,7 +116,7 @@ const Hero = () => {
                   fontWeight: 500,
                 }}
               >
-                high quality.
+                higher efficiency.
               </span>{" "}
             </Text>
             <ButtonGroup gap="1">
